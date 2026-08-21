@@ -15,3 +15,5 @@ _git2_*
 **.user
 # NuGet migration
 MigrationBackup/*
+*.pfx
+**/*.pfx
